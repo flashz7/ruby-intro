@@ -1,0 +1,2 @@
+The first program outputs 3 without any errors.
+The second program will throw an error, because x is only defined within the '.times' method, and therefore is not accessible outside of that scope.
