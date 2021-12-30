@@ -1,0 +1,6 @@
+Error, trying to compare string and int
+Error, trying to compare int and string
+false
+true
+false
+true
