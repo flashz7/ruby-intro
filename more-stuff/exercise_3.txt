@@ -1,0 +1,2 @@
+Exception handling is a way to deal with unexpected and/or potentially dangerous input to your code.
+It solves the problem of unexpected input crashing a program.

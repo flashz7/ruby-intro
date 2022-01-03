@@ -1,0 +1,5 @@
+puts /lab/.match?("laboratory")
+puts /lab/.match?("experiment")
+puts /lab/.match?("Pans Labyrinth")
+puts /lab/.match?("elaborate")
+puts /lab/.match?("polar bear")

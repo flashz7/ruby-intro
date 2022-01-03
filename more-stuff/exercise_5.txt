@@ -1,0 +1,1 @@
+Because 'block' is not called with the '&' identifier.
