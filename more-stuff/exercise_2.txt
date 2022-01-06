@@ -1,0 +1,1 @@
+Nothing will be outputted, and a proc object is returned.
